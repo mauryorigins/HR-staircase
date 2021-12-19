@@ -1,6 +1,6 @@
 /* eslint-disable no-return-assign */
 
-// Source: https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
+// Source: https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
 import staircase from './staircase';
 
 function main() {
